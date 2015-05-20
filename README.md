@@ -1,5 +1,5 @@
-##This project was done as a pre-interview project for a potential employer.  I didn't get the position, but
-##was able to learn quite a bit from discussions with them after this was completed.
+#This project was done as a pre-interview project for a potential employer.  I didn't get the position, but
+#was able to learn quite a bit from discussions with them after this was completed.
 
 MarkupProject
 =============
